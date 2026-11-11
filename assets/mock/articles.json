@@ -1,0 +1,69 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "kompas",
+        "name": "Kompas Tekno"
+      },
+      "author": "Rizky Pratama",
+      "title": "Flutter 3 Dirilis: Dukungan Multiplatform yang Semakin Andal",
+      "description": "Pembaruan terbaru Flutter menghadirkan peningkatan performa grafis dengan Impeller dan stabilitas di berbagai sistem operasi desktop maupun mobile.",
+      "url": "https://tekno.kompas.com/read/2026/10/13/flutter-3-rilis",
+      "urlToImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800",
+      "publishedAt": "2026-10-13T08:30:00Z",
+      "content": "Flutter terus berkembang pesat sebagai framework pilihan pengembang untuk membangun aplikasi lintas platform dari satu basis kode tunggal."
+    },
+    {
+      "source": {
+        "id": "detik",
+        "name": "Detik Inet"
+      },
+      "author": null,
+      "title": "Kecerdasan Buatan Mulai Diterapkan di Berbagai Sektor Industri Nasional",
+      "description": "Transformasi digital di Indonesia semakin terakselerasi dengan adopsi model bahasa cerdas untuk otomatisasi layanan publik dan perbankan.",
+      "url": "https://inet.detik.com/read/2026/10/13/ai-sektor-industri",
+      "urlToImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
+      "publishedAt": "2026-10-13T09:15:00Z",
+      "content": "Pemerintah bersama asosiasi industri terus mendorong sertifikasi talenta digital di bidang kecerdasan buatan dan rekayasa data."
+    },
+    {
+      "source": {
+        "id": "kumparan",
+        "name": "Kumparan Bisnis"
+      },
+      "author": "Siti Nurhaliza",
+      "title": "Pertumbuhan Ekonomi Digital Diproyeksikan Meningkat Pesat Tahun Depan",
+      "description": null,
+      "url": "https://kumparan.com/bisnis/pertumbuhan-ekonomi-digital",
+      "urlToImage": null,
+      "publishedAt": "2026-10-13T10:00:00Z",
+      "content": "Laporan terbaru menunjukkan sektor e-commerce dan teknologi finansial masih menjadi penggerak utama pertumbuhan ekonomi digital di Asia Tenggara."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Antara News"
+      },
+      "author": "Budi Santoso",
+      "title": "Pentingnya Pembelajaran Pemrograman Mobile Sejak Jenjang Sekolah Menengah",
+      "description": "Kurikulum vokasi mulai mengadopsi pembelajaran Dart dan Flutter untuk menyiapkan lulusan yang siap bersaing di pasar kerja teknologi informasi.",
+      "url": "https://antaranews.com/berita/pemrograman-mobile-vokasi",
+      "urlToImage": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800",
+      "publishedAt": "2026-10-13T11:45:00Z",
+      "content": null
+    },
+    {
+      "source": null,
+      "author": null,
+      "title": "Inovasi Energi Terbarukan Menjadi Sorotan Utama Konferensi Teknologi Hijau",
+      "description": "Berbagai inovasi panel surya efisiensi tinggi dan baterai penyimpanan energi generasi baru dipamerkan di hadapan ribuan delegasi internasional.",
+      "url": "https://example.com/berita/energi-terbarukan-konferensi",
+      "urlToImage": null,
+      "publishedAt": null,
+      "content": null
+    }
+  ]
+}
+
